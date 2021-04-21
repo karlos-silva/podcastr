@@ -1,11 +1,11 @@
 
 
-![](https://img.shields.io/github/license/karlos-silva/nlw-happy?style=plastic)
-![](https://img.shields.io/github/forks/karlos-silva/nlw-happy)
-![](https://img.shields.io/github/stars/karlos-silva/nlw-happy)
+![](https://img.shields.io/github/license/karlos-silva/podcastr?style=plastic)
+![](https://img.shields.io/github/forks/karlos-silva/podcastr)
+![](https://img.shields.io/github/stars/karlos-silva/podcastr)
 
 <h1 align="center" >
-  <img alt="happy" title="happy" src="./assets/banner.png" />
+  <img alt="Podcastr" title="Podcastr" src="./assets/banner.png" />
 </h1>
 
 
@@ -72,7 +72,6 @@ Instale as dependências
 ```bash
 
 $ yarn
-
 
 ```
 
