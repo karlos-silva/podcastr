@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/stars/karlos-silva/podcastr)
 
 <h1 align="center" >
-  <img alt="Podcastr" title="Podcastr" src="./assets/banner.png" />
+  <img alt="Podcastr" title="Podcastr" src="./public/logo.png" />
 </h1>
 
 
@@ -29,17 +29,10 @@ Este projeto foi construído durante a quinta edição do evento Next Level Week
 ### Web 💻
 
 <p align="center">
-  <img alt="Happy Web" title="Happy Web" src="./assets/landing.png" width="400px">
+  <img alt="Podcastr" title="Podcastr" src="./public/homeScreen.png" width="600px">
 
-  <img alt="Happy Web" title="Happy Web" src="./assets/orph-map.png" width="400px">
-  
-  <img alt="Happy Web" title="Happy Web" src="./assets/orph-details-1.png" width="400px">
-  
-  <img alt="Happy Web" title="Happy Web" src="./assets/orph-details-2.png" width="400px">
-  
-  <img alt="Happy Web" title="Happy Web" src="./assets/create-orph-1.png" width="400px">
-  
-  <img alt="Happy Web" title="Happy Web" src="./assets/create-orph-2.png" width="400px">
+  <img alt="Podcastr" title="Podcastr" src="./public/episodeScreen.png" width="600px">
+
 </p>
 
 ---
@@ -75,7 +68,14 @@ $ yarn
 
 ```
 
-Rode a aplicação
+Rode a Json Server (Backend)
+
+```bash
+
+$ yarn server
+
+```
+Em outro terminal, rode a aplicação
 
 ```bash
 
@@ -93,15 +93,15 @@ Se tudo deu certo, o app deve estar disponível agora! 👩🏽‍🔧
 As ferramentas usadas no desenvolvimento do projeto.
 
 #### Backend:
- - Fake API
+ - Json Server
 
 
 #### Web:
 - Typescript
 - Next.JS
 - ReactJS ⚛️
-- React Router Dom
 - Axios
+- Sass
 
 
 ---
